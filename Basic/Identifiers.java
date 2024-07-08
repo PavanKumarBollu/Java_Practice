@@ -3,7 +3,7 @@ public class Identifiers
 
 public static void main(String[] a)
 {
-
+//code snippet checking weathermulti semi colon is accepted or not
    System.out.println("multiple semicolons");;;;;;;;;;;;
 
    
